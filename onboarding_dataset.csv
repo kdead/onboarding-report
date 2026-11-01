@@ -1,0 +1,61 @@
+PersonID,FictionalName,Workstream,TowerLead,RequestDate,DetailsConfirmedDate,RoleCreatedDate,ForecastingDoneDate,WBSAccessDate,DistListsAddedDate,StartDate,RollOffDate,CurrentStage,Status,Location
+P001,Aaliyah Johnson,Finance Transformation,Tower Lead A,6/7/2026,6/7/2026,6/10/2026,6/14/2026,6/15/2026,6/20/2026,6/22/2026,3/19/2027,Onboarded,Onboarded,Hybrid - Chicago
+P002,Marcus Williams,Supply Chain,Tower Lead B,6/2/2026,6/2/2026,6/4/2026,6/7/2026,6/8/2026,6/13/2026,6/15/2026,10/13/2026,Onboarded,Onboarded,Hybrid - Chicago
+P003,Jasmine Brown,HR Operations,Tower Lead C,3/9/2026,3/9/2026,3/10/2026,3/16/2026,3/17/2026,3/19/2026,3/21/2026,3/21/2027,Onboarded,Onboarded,Remote - Chicago
+P004,Darius Taylor,Technology Delivery,Tower Lead D,5/15/2026,5/15/2026,5/18/2026,5/24/2026,5/27/2026,5/29/2026,5/30/2026,8/28/2026,Onboarded,Onboarded,Hybrid - Chicago
+P005,Keisha Harris,Finance Transformation,Tower Lead A,2/26/2026,2/26/2026,3/2/2026,3/6/2026,3/7/2026,3/13/2026,3/14/2026,12/9/2026,Onboarded,Onboarded,Remote - US
+P006,Tyrone Clark,Supply Chain,Tower Lead B,1/18/2026,1/18/2026,1/23/2026,1/27/2026,1/29/2026,2/3/2026,2/4/2026,6/4/2026,Onboarded,Onboarded,Remote - US
+P007,Imani Lewis,HR Operations,Tower Lead C,2/10/2026,2/10/2026,2/15/2026,2/19/2026,2/23/2026,2/28/2026,3/1/2026,3/1/2027,Onboarded,Onboarded,Hybrid - Chicago
+P008,Andre Walker,Technology Delivery,Tower Lead D,6/17/2026,6/17/2026,6/21/2026,6/24/2026,6/25/2026,6/27/2026,6/29/2026,10/27/2026,Onboarded,Onboarded,Hybrid - Chicago
+P009,Latoya Robinson,Finance Transformation,Tower Lead A,1/18/2026,1/18/2026,1/21/2026,1/27/2026,1/30/2026,2/1/2026,2/4/2026,8/3/2026,Onboarded,Onboarded,Remote - Chicago
+P010,Jamal Hall,Supply Chain,Tower Lead B,2/19/2026,2/19/2026,2/21/2026,2/25/2026,2/27/2026,3/5/2026,3/7/2026,12/2/2026,Onboarded,Onboarded,Hybrid - Chicago
+P011,Nia Allen,HR Operations,Tower Lead C,1/27/2026,1/27/2026,1/31/2026,2/5/2026,2/9/2026,2/11/2026,2/13/2026,6/13/2026,Onboarded,Onboarded,Remote - US
+P012,Terrence Young,Technology Delivery,Tower Lead D,1/6/2026,1/6/2026,,,,,2/3/2026,10/31/2026,Role Created,In Progress,Remote - US
+P013,Ebony King,Finance Transformation,Tower Lead A,3/25/2026,3/25/2026,3/28/2026,4/3/2026,4/7/2026,4/12/2026,4/14/2026,4/14/2027,Onboarded,Onboarded,Hybrid - Chicago
+P014,Malik Wright,Supply Chain,Tower Lead B,4/13/2026,4/13/2026,4/16/2026,4/23/2026,4/25/2026,4/28/2026,4/30/2026,10/27/2026,Onboarded,Onboarded,Remote - US
+P015,Tiana Scott,HR Operations,Tower Lead C,2/9/2026,2/9/2026,,,,,3/9/2026,7/7/2026,Role Created,In Progress,Remote - Chicago
+P016,Reginald Torres,Technology Delivery,Tower Lead D,7/27/2026,7/27/2026,7/30/2026,8/6/2026,8/8/2026,8/12/2026,8/15/2026,8/15/2027,Onboarded,Onboarded,Remote - US
+P017,Shanice Nguyen,Finance Transformation,Tower Lead A,2/22/2026,2/22/2026,2/25/2026,3/4/2026,,,3/22/2026,9/18/2026,WBS Access Granted,In Progress,Remote - US
+P018,Darnell Hill,Supply Chain,Tower Lead B,3/23/2026,3/23/2026,3/28/2026,4/1/2026,4/3/2026,4/6/2026,4/7/2026,7/6/2026,Onboarded,Onboarded,Hybrid - Chicago
+P019,Ayanna Flores,HR Operations,Tower Lead C,1/31/2026,1/31/2026,,,,,2/28/2026,2/28/2027,Role Created,In Progress,Remote - Chicago
+P020,Khalil Green,Technology Delivery,Tower Lead D,3/16/2026,3/16/2026,,,,,4/13/2026,1/8/2027,Role Created,In Progress,Remote - US
+P021,Brianna Adams,Finance Transformation,Tower Lead A,4/1/2026,4/1/2026,4/5/2026,4/9/2026,4/10/2026,4/15/2026,4/16/2026,7/15/2026,Onboarded,Onboarded,Remote - Chicago
+P022,DeAndre Nelson,Supply Chain,Tower Lead B,2/11/2026,2/11/2026,2/13/2026,2/16/2026,2/17/2026,2/22/2026,2/25/2026,11/22/2026,Onboarded,Onboarded,Remote - US
+P023,Tanisha Baker,HR Operations,Tower Lead C,2/19/2026,2/19/2026,2/20/2026,2/24/2026,2/28/2026,3/3/2026,3/4/2026,11/29/2026,Onboarded,Onboarded,Remote - Chicago
+P024,Marquis Hall,Technology Delivery,Tower Lead D,1/7/2026,1/7/2026,1/12/2026,1/14/2026,1/17/2026,1/19/2026,1/22/2026,5/22/2026,Onboarded,Onboarded,Remote - US
+P025,Zaria Rivera,Finance Transformation,Tower Lead A,6/26/2026,6/26/2026,6/30/2026,7/5/2026,7/7/2026,7/10/2026,7/13/2026,7/13/2027,Onboarded,Onboarded,Remote - US
+P026,Alonzo Campbell,Supply Chain,Tower Lead B,5/7/2026,5/7/2026,5/12/2026,5/14/2026,5/15/2026,5/17/2026,5/20/2026,8/18/2026,Onboarded,Onboarded,Hybrid - Chicago
+P027,Kendra Mitchell,HR Operations,Tower Lead C,8/12/2026,8/12/2026,8/13/2026,8/15/2026,8/18/2026,8/22/2026,8/23/2026,11/21/2026,Onboarded,Onboarded,Remote - Chicago
+P028,Jermaine Carter,Technology Delivery,Tower Lead D,7/8/2026,7/8/2026,7/12/2026,7/17/2026,7/21/2026,7/23/2026,7/25/2026,11/22/2026,Onboarded,Onboarded,Remote - US
+P029,Talisha Roberts,Finance Transformation,Tower Lead A,5/24/2026,5/24/2026,5/29/2026,6/5/2026,6/6/2026,6/12/2026,6/13/2026,10/11/2026,Onboarded,Onboarded,Remote - US
+P030,Omar Gomez,Supply Chain,Tower Lead B,6/7/2026,6/7/2026,6/12/2026,6/15/2026,6/18/2026,6/23/2026,6/24/2026,12/21/2026,Onboarded,Onboarded,Hybrid - Chicago
+P031,Faith Phillips,HR Operations,Tower Lead C,5/5/2026,5/5/2026,5/9/2026,5/12/2026,5/15/2026,5/20/2026,5/23/2026,8/21/2026,Onboarded,Onboarded,Remote - Chicago
+P032,Desmond Evans,Technology Delivery,Tower Lead D,1/9/2026,1/9/2026,1/13/2026,1/19/2026,1/23/2026,1/25/2026,1/28/2026,4/28/2026,Onboarded,Onboarded,Remote - US
+P033,Renee Turner,Finance Transformation,Tower Lead A,2/7/2026,2/7/2026,2/11/2026,2/15/2026,2/16/2026,2/22/2026,2/24/2026,6/24/2026,Onboarded,Onboarded,Remote - US
+P034,Curtis Diaz,Supply Chain,Tower Lead B,5/9/2026,5/9/2026,5/10/2026,5/16/2026,,,6/6/2026,12/3/2026,WBS Access Granted,In Progress,Remote - Chicago
+P035,Monique Parker,HR Operations,Tower Lead C,6/15/2026,6/15/2026,6/17/2026,6/20/2026,6/21/2026,6/25/2026,6/26/2026,3/23/2027,Onboarded,Onboarded,Remote - US
+P036,Jerome Cruz,Technology Delivery,Tower Lead D,2/10/2026,2/10/2026,2/14/2026,2/19/2026,2/20/2026,2/26/2026,2/27/2026,11/24/2026,Onboarded,Onboarded,Remote - Chicago
+P037,Latisha Edwards,Finance Transformation,Tower Lead A,1/8/2026,1/8/2026,1/13/2026,1/18/2026,1/20/2026,1/24/2026,1/25/2026,10/22/2026,Onboarded,Onboarded,Remote - US
+P038,Kendrick Collins,Supply Chain,Tower Lead B,4/17/2026,4/17/2026,4/22/2026,4/26/2026,4/30/2026,5/3/2026,5/5/2026,11/1/2026,Onboarded,Onboarded,Remote - US
+P039,Asha Reyes,HR Operations,Tower Lead C,1/23/2026,1/23/2026,1/24/2026,1/26/2026,1/29/2026,2/4/2026,2/5/2026,5/6/2026,Onboarded,Onboarded,Remote - Chicago
+P040,Donnell Stewart,Technology Delivery,Tower Lead D,5/24/2026,5/24/2026,5/27/2026,,,,6/21/2026,9/19/2026,Forecasting Done,In Progress,Remote - US
+P041,Tameka Morris,Finance Transformation,Tower Lead A,8/4/2026,8/4/2026,8/8/2026,8/14/2026,8/15/2026,8/21/2026,8/22/2026,8/22/2027,Onboarded,Onboarded,Remote - Chicago
+P042,Rashad Morales,Supply Chain,Tower Lead B,2/4/2026,2/4/2026,2/7/2026,2/14/2026,2/18/2026,,3/4/2026,8/31/2026,Distribution Lists Added,In Progress,Hybrid - Chicago
+P043,Janelle Murphy,HR Operations,Tower Lead C,2/20/2026,2/20/2026,,,,,3/20/2026,3/20/2027,Role Created,In Progress,Remote - Chicago
+P044,Antoine Cook,Technology Delivery,Tower Lead D,7/8/2026,7/8/2026,7/10/2026,7/16/2026,7/18/2026,7/23/2026,7/26/2026,1/22/2027,Onboarded,Onboarded,Remote - US
+P045,Sierra Rogers,Finance Transformation,Tower Lead A,6/23/2026,6/23/2026,6/25/2026,6/29/2026,7/3/2026,7/7/2026,7/8/2026,4/4/2027,Onboarded,Onboarded,Remote - Chicago
+P046,Lamont Gutierrez,Supply Chain,Tower Lead B,7/10/2026,7/10/2026,7/13/2026,7/15/2026,7/18/2026,7/22/2026,7/25/2026,11/22/2026,Onboarded,Onboarded,Hybrid - Chicago
+P047,Keira Ortiz,HR Operations,Tower Lead C,7/19/2026,7/19/2026,7/21/2026,7/23/2026,7/24/2026,7/27/2026,7/28/2026,1/24/2027,Onboarded,Onboarded,Hybrid - Chicago
+P048,Donte Morgan,Technology Delivery,Tower Lead D,2/8/2026,2/8/2026,2/10/2026,2/17/2026,2/18/2026,2/20/2026,2/22/2026,2/22/2027,Onboarded,Onboarded,Hybrid - Chicago
+P049,Maya Cooper,Finance Transformation,Tower Lead A,3/7/2026,3/7/2026,3/10/2026,3/15/2026,3/16/2026,3/21/2026,3/23/2026,12/18/2026,Onboarded,Onboarded,Remote - US
+P050,Cedric Peterson,Supply Chain,Tower Lead B,8/22/2026,8/22/2026,8/26/2026,8/28/2026,,,9/19/2026,1/17/2027,WBS Access Granted,In Progress,Hybrid - Chicago
+P051,Alisha Bailey,HR Operations,Tower Lead C,4/20/2026,4/20/2026,4/24/2026,4/28/2026,5/2/2026,5/4/2026,5/7/2026,5/7/2027,Onboarded,Onboarded,Remote - US
+P052,Trevon Reed,Technology Delivery,Tower Lead D,5/9/2026,5/9/2026,5/10/2026,5/15/2026,5/18/2026,5/24/2026,5/25/2026,9/22/2026,Onboarded,Onboarded,Remote - US
+P053,Danielle Kelly,Finance Transformation,Tower Lead A,8/3/2026,8/3/2026,8/7/2026,8/10/2026,8/12/2026,8/16/2026,8/19/2026,8/19/2027,Onboarded,Onboarded,Remote - Chicago
+P054,Maurice Howard,Supply Chain,Tower Lead B,3/3/2026,3/3/2026,3/4/2026,3/7/2026,3/11/2026,,3/31/2026,3/31/2027,Distribution Lists Added,In Progress,Remote - Chicago
+P055,Shayla Ramos,HR Operations,Tower Lead C,8/22/2026,8/22/2026,8/25/2026,8/31/2026,9/1/2026,9/5/2026,9/8/2026,3/7/2027,Onboarded,Onboarded,Remote - US
+P056,Isaiah Kim,Technology Delivery,Tower Lead D,8/8/2026,8/8/2026,8/10/2026,8/14/2026,8/17/2026,8/22/2026,8/24/2026,12/22/2026,Onboarded,Onboarded,Remote - Chicago
+P057,Tamika Cox,Finance Transformation,Tower Lead A,1/15/2026,1/15/2026,1/19/2026,1/23/2026,1/24/2026,1/28/2026,1/31/2026,5/31/2026,Onboarded,Onboarded,Hybrid - Chicago
+P058,Javon Ward,Supply Chain,Tower Lead B,6/2/2026,6/2/2026,6/6/2026,6/10/2026,6/11/2026,6/13/2026,6/16/2026,12/13/2026,Onboarded,Onboarded,Hybrid - Chicago
+P059,Precious Richardson,HR Operations,Tower Lead C,7/13/2026,7/13/2026,7/16/2026,7/23/2026,7/27/2026,8/1/2026,8/3/2026,1/30/2027,Onboarded,Onboarded,Remote - US
+P060,Ellis Watson,Technology Delivery,Tower Lead D,2/4/2026,2/4/2026,2/6/2026,2/9/2026,2/12/2026,2/16/2026,2/18/2026,6/18/2026,Onboarded,Onboarded,Hybrid - Chicago
